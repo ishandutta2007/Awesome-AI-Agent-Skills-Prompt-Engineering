@@ -1,41 +1,57 @@
-# Awesome AI Agent Skills & Prompt Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Agent Skills &amp; Prompt Engineering Banner" width="100%" />
+</p>
 
-> A curated directory of leading SaaS platforms and open-source frameworks for **AI Agent Skills (`SKILL.md`)**, **Prompt Engineering & Versioning**, **Automated Prompt Optimization**, **LLMOps**, and **Agent Evaluation & Red-Teaming Suites**.
+# 🤖 Awesome AI Agent Skills & Prompt Engineering
 
-**Last updated: November 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Skills-Prompt-Engineering/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Skills-Prompt-Engineering?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Skills-Prompt-Engineering/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Skills-Prompt-Engineering?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Skills-Prompt-Engineering/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🌟 A curated directory of leading SaaS platforms and open-source frameworks for **AI Agent Skills (`SKILL.md`)**, **Prompt Engineering & Versioning**, **Automated Prompt Optimization**, **LLMOps**, and **Agent Evaluation & Red-Teaming Suites**.
+
+📅 **Last updated: November 2026**
 
 ---
 
-## Overview & Architecture
+## 🏛️ Overview & Architecture
 
 Modern AI agent architectures demand modular, maintainable, and verifiable prompt systems. This repository aggregates tools across the generative AI and agentic workflow lifecycle:
-- **Agent Skill Systems (`SKILL.md`)**: Reusable capability packs providing progressive context disclosure, tool definitions, and structured workflows across Claude Code, Cursor, Codex, and Gemini CLI.
-- **Enterprise Prompt Management & Versioning**: Production-grade prompt CMS platforms enabling visual branching, environment release tagging (`production`, `staging`), prompt caching, and latency tracking.
-- **Automated Prompt Compilers & Optimizers**: Algorithmic prompt tuning frameworks (e.g., `DSPy`, `TextGrad`) that replace fragile manual prompt strings with automated teleprompters and textual gradients.
-- **Structured Outputs & Schema Adherence**: Type-safe generation engines enforcing JSON schema, Pydantic constraints, and context-free grammars (CFGs).
-- **Evaluation, Observability & Red-Teaming**: Multi-agent test harnesses, LLM-as-a-judge CI/CD regressions, and adversarial security scanning.
+- 🧩 **Agent Skill Systems (`SKILL.md`)**: Reusable capability packs providing progressive context disclosure, tool definitions, and structured workflows across Claude Code, Cursor, Codex, and Gemini CLI.
+- 🏷️ **Enterprise Prompt Management & Versioning**: Production-grade prompt CMS platforms enabling visual branching, environment release tagging (`production`, `staging`), prompt caching, and latency tracking.
+- ⚡ **Automated Prompt Compilers & Optimizers**: Algorithmic prompt tuning frameworks (e.g., `DSPy`, `TextGrad`) that replace fragile manual prompt strings with automated teleprompters and textual gradients.
+- 📐 **Structured Outputs & Schema Adherence**: Type-safe generation engines enforcing JSON schema, Pydantic constraints, and context-free grammars (CFGs).
+- 🛡️ **Evaluation, Observability & Red-Teaming**: Multi-agent test harnesses, LLM-as-a-judge CI/CD regressions, and adversarial security scanning.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
----
-
-## Sector Overview & Market Dynamics
-
-The LLMOps and prompt engineering market is projected at **$3.8B–$5.2B in 2026** (scaling past $8B by 2029 at an estimated CAGR of 25–35%), fueled by widespread enterprise transition from single-prompt chat interfaces to autonomous, multi-agent production pipelines. The sector remains **highly fragmented** rather than winner-take-all: the rapid emergence of reasoning models, agent context standards (`SKILL.md`), and decoupled architectures prevents any single vendor from monopolizing the stack, driving strong co-existence between modular open-source frameworks and enterprise governance platforms.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saashosted-platforms)
+- [🐙 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Recommended Stacks & Workflows](#️-recommended-stacks--workflows)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-## SaaS/Hosted Platforms
+## 📊 Sector Overview & Market Dynamics
 
-| Platform | Company Scale (Valuation / Funding) | Pricing (Starting Paid Tier) | Free Tier / Trial Limit | Key Capabilities |
+The LLMOps and prompt engineering market is projected at **$3.8B–$5.2B in 2026** (scaling past $8B by 2029 at an estimated CAGR of 25–35%), fueled by widespread enterprise transition from single-prompt chat interfaces to autonomous, multi-agent production pipelines. The sector remains **highly fragmented** rather than winner-take-all: the rapid emergence of reasoning models, agent context standards (`SKILL.md`), and decoupled architectures prevents any single vendor from monopolizing the stack, driving strong co-existence between modular open-source frameworks and enterprise governance platforms. 🚀
+
+---
+
+## ☁️ SaaS/Hosted Platforms
+
+| 🏢 Platform | 💰 Company Scale (Valuation / Funding) | 🏷️ Pricing (Starting Paid Tier) | 🎁 Free Tier / Trial Limit | ⚙️ Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[LangSmith (LangChain)](https://langchain.com)** | **$1.25B+ Valuation** ($160M+ funded, $16M+ ARR) | **$39 / user / month** (Plus Plan; $0.005/trace over base) | **Free Forever (Developer Tier)**: 1 user, 5,000 base traces/month, 14-day retention | Enterprise prompt playground, prompt versioning hub, trace debugging, and automated eval test suites |
 | **[Braintrust](https://braintrust.dev)** | **$800M Valuation** ($121M funded) | **$249 / month** (Pro Plan; includes 5 GB data & 50k scores) | **Free Forever (Starter Tier)**: Unlimited users, 1 GB data/month, 10,000 scores/month, $10 gateway credits/month, 14-day retention | End-to-end AI evaluation platform, side-by-side prompt diffing, dataset versioning, and CI/CD regression gates |
@@ -50,11 +66,11 @@ The LLMOps and prompt engineering market is projected at **$3.8B–$5.2B in 2026
 
 ---
 
-## Open-Source GitHub Projects
+## 🐙 Open-Source GitHub Projects
 
-Curated open-source repositories for agent skills, prompt optimization, declarative compilers, structured schema enforcement, and red-teaming harnesses. Sorted by GitHub star count in descending order.
+Curated open-source repositories for agent skills, prompt optimization, declarative compilers, structured schema enforcement, and red-teaming harnesses. Sorted by GitHub star count in descending order. 🌟
 
-| Repository | GitHub Stars | License | Description |
+| 📦 Repository | ⭐ GitHub Stars | 📜 License | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | `MIT` | Autonomous general-purpose AI agent architecture executing complex goals via modular tool loops and prompt sequences. |
 | **[f/prompts.chat](https://github.com/f/prompts.chat)** | [![GitHub stars](https://img.shields.io/github/stars/f/prompts.chat?style=social&color=white)](https://github.com/f/prompts.chat/stargazers) | `CC0-1.0` | World-renowned repository of curated prompt engineering templates and role definitions for ChatGPT and LLM agents. |
@@ -81,8 +97,8 @@ Curated open-source repositories for agent skills, prompt optimization, declarat
 | **[comet-ml/opik](https://github.com/comet-ml/opik)** | [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers) | `Apache-2.0` | Open-source platform for tracking, evaluating, and fine-tuning prompt chains and agent execution pipelines. |
 | **[guidance-ai/guidance](https://github.com/guidance-ai/guidance)** | [![GitHub stars](https://img.shields.io/github/stars/guidance-ai/guidance?style=social&color=white)](https://github.com/guidance-ai/guidance/stargazers) | `MIT` | Prompt programming language from Microsoft Research enforcing context-free grammars, regex, and structured token generation. |
 | **[confident-ai/deepeval](https://github.com/confident-ai/deepeval)** | [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers) | `Apache-2.0` | Production unit-testing framework for LLM prompts and agent systems evaluating hallucination, relevancy, and safety. |
-| **[dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)** | [![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines/stargazers) | `Apache-2.0` | Fast, structured text generation library guaranteeing deterministic regex, JSON schema, and BNF grammar adherence. |
-| **[567-labs/instructor](https://github.com/567-labs/instructor)** | [![GitHub stars](https://img.shields.io/github/stars/567-labs/instructor/stargazers) | `MIT` | Pydantic-powered structured LLM output generation and prompt validation retries across Python, TypeScript, and Rust. |
+| **[dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)** | [![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social&color=white)](https://github.com/dottxt-ai/outlines/stargazers) | `Apache-2.0` | Fast, structured text generation library guaranteeing deterministic regex, JSON schema, and BNF grammar adherence. |
+| **[567-labs/instructor](https://github.com/567-labs/instructor)** | [![GitHub stars](https://img.shields.io/github/stars/567-labs/instructor?style=social&color=white)](https://github.com/567-labs/instructor/stargazers) | `MIT` | Pydantic-powered structured LLM output generation and prompt validation retries across Python, TypeScript, and Rust. |
 | **[microsoft/promptflow](https://github.com/microsoft/promptflow)** | [![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white)](https://github.com/microsoft/promptflow/stargazers) | `MIT` | Suite of development tools for authoring DAG-based prompt workflows, running batch variant evaluations, and production serving. |
 | **[NVIDIA/garak](https://github.com/NVIDIA/garak)** | [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak)](https://github.com/NVIDIA/garak/stargazers) | `Apache-2.0` | LLM vulnerability scanner and red-teaming harness checking for prompt injection, jailbreaks, data leakage, and toxicity. |
 | **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)** | [![GitHub stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social&color=white)](https://github.com/brexhq/prompt-engineering/stargazers) | `MIT` | Production prompt engineering guide and battle-tested recipes derived from building AI products at Brex. |
@@ -98,28 +114,44 @@ Curated open-source repositories for agent skills, prompt optimization, declarat
 
 ---
 
-## Recommended Stacks & Workflows
+## 🛠️ Recommended Stacks & Workflows
 
 To construct a high-reliability prompt and agent skill development pipeline, teams typically combine:
-1. **Skill Discovery & Packaging**: [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) + [agentskills/agentskills](https://github.com/agentskills/agentskills) for portable `SKILL.md` configurations.
-2. **Algorithmic Prompt Optimization**: [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) or [zou-group/textgrad](https://github.com/zou-group/textgrad) to automate few-shot selection and instruction synthesis.
-3. **Structured Outputs & Schema Validation**: [567-labs/instructor](https://github.com/567-labs/instructor), [BoundaryML/baml](https://github.com/BoundaryML/baml), or [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines).
-4. **Adversarial Red-Teaming & Testing**: [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) or [NVIDIA/garak](https://github.com/NVIDIA/garak) in GitHub Actions / CI/CD pipelines.
-5. **Prompt Versioning CMS & Observability**: [langfuse/langfuse](https://github.com/langfuse/langfuse), [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta), or [LangSmith](https://langchain.com) for production prompt labels and latency tracing.
+1. 📦 **Skill Discovery & Packaging**: [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) + [agentskills/agentskills](https://github.com/agentskills/agentskills) for portable `SKILL.md` configurations.
+2. ⚡ **Algorithmic Prompt Optimization**: [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) or [zou-group/textgrad](https://github.com/zou-group/textgrad) to automate few-shot selection and instruction synthesis.
+3. 📐 **Structured Outputs & Schema Validation**: [567-labs/instructor](https://github.com/567-labs/instructor), [BoundaryML/baml](https://github.com/BoundaryML/baml), or [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines).
+4. 🛡️ **Adversarial Red-Teaming & Testing**: [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) or [NVIDIA/garak](https://github.com/NVIDIA/garak) in GitHub Actions / CI/CD pipelines.
+5. 📊 **Prompt Versioning CMS & Observability**: [langfuse/langfuse](https://github.com/langfuse/langfuse), [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta), or [LangSmith](https://langchain.com) for production prompt labels and latency tracing.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repository.
-2. Add or update entries adhering to the tabular structure:
+1. 🍴 Fork the repository.
+2. 📝 Add or update entries adhering to the tabular structure:
    - For SaaS products: include official link, company scale/valuation, specific starting paid tier price, and specific free tier/trial limits.
    - For Open-Source projects: provide GitHub link, social style white star badge linking to `/stargazers`, license, and concise technical description.
-3. Keep descriptions factual, unbiased, and focused on prompt engineering, agent skills, and LLMOps.
-4. Submit a Pull Request with a clear summary of additions or updates.
+3. 🎯 Keep descriptions factual, unbiased, and focused on prompt engineering, agent skills, and LLMOps.
+4. 🚀 Submit a Pull Request with a clear summary of additions or updates.
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you for visiting and using this curated directory! If you find this project valuable for your AI agent development, prompt engineering workflows, or research, please consider:
+- ⭐ **Starring** the repository on GitHub to help others discover it.
+- 🍴 **Forking** and contributing your favorite agent skills and LLMOps frameworks.
+- 📢 **Sharing** with your developer team and community on Twitter / X, LinkedIn, or Discord.
+- ☕ **Buying a coffee / Sponsoring** the maintainer via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to support ongoing curation and maintenance.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Agent-Skills-Prompt-Engineering&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Agent-Skills-Prompt-Engineering&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
 
 This repository is an independently maintained, community-curated directory intended for research, educational, and developer evaluation purposes. All trademarks, service marks, and company names are the property of their respective owners.
